@@ -10,7 +10,7 @@
 
 ## John Romyr B. Lopez
 
-- Preferred Name: Renz
+- Preferred Name: Romyr
 - Skills: Web Development, Python, AI Automation, Sql
 - Tools: VS Code, Figma, Git, n8n
 - Field of Focus in Computer Science: Unsure between Fullstack Software Development or Data Related Field
