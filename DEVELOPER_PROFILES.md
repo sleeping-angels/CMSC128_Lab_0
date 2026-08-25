@@ -15,3 +15,11 @@
 - Tools: VS Code, Figma, Git, n8n
 - Field of Focus in Computer Science: Unsure between Fullstack Software Development or Data Related Field
 - Fun Fact or Goal: My hands get wet involuntarily due to that I have to bring a keyboard since it ruined my laptop keyboard
+
+## Andrian Lloyd M. Maagma
+
+- Preferred Name: Andrian
+- Skills: ML, Web Development (Typescript, React, Python), Databases (Postgres)
+- Tools: VS Code, Git, GitHub, Figma
+- Field of Focus in Computer Science: AI and ML Engineering
+- Fun Fact or Goal: Can't live without vim bindings
