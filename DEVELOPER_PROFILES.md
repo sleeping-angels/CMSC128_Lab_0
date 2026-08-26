@@ -32,3 +32,10 @@
 - Tools: VS Code, Git, Github, Figma
 - Field of Focus in Computer Science: Cybersecurity
 - Fun Fact or Goal: I want to learn reverse engineering
+
+## Yuan Miguel C. Birondo
+- Preferred Name: Yuan/Yoom
+- Skills: Drawing, Game Development, Object-Oriented Programming, UI Development
+- Tools: VSCode, Figma, Git, IntelliJ IDEA, Krita
+- Field of Focus in Computer Science: Computer Graphics and Game Development
+- Fun Fact or Goal: I want to make my own game engine
