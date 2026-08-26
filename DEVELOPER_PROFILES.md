@@ -29,6 +29,6 @@
 
 - Preferred Name: Julian
 - Skills: Web Development (Typescript, React), Networking, IT, Troubleshooting
-- Tools: VS Code, Git, Github, Figma, 
+- Tools: VS Code, Git, Github, Figma
 - Field of Focus in Computer Science: Cybersecurity
 - Fun Fact or Goal: I want to learn reverse engineering
