@@ -23,3 +23,12 @@
 - Tools: VS Code, Git, GitHub, Figma
 - Field of Focus in Computer Science: AI and ML Engineering
 - Fun Fact or Goal: Can't live without vim bindings
+
+
+## Julian Hanns T. Medalla
+
+- Preferred Name: Julian
+- Skills: Web Development (Typescript, React, Python), Networking, IT, Troubleshooting
+- Tools: VS Code, Git, Github, Figma, 
+- Field of Focus in Computer Science: Cybersecurity
+- Fun Fact or Goal: I want to learn reverse engineering
